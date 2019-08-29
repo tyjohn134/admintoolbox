@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iasettings>
+  <projectproperties>
+    <manufacturer>tyjohnson</manufacturer>
+    <productname>The Admin Toolbox</productname>
+    <productversion>1.0.*</productversion>
+    <productcode>{5ef5de0a-2b7d-4730-8a2d-13da83c8e3ca}</productcode>
+    <upgradecode>{d7aa91d6-972e-4e0a-b6dd-acaf060c37ca}</upgradecode>
+    <language>0</language>
+    <languagename>English</languagename>
+  </projectproperties>
+  <summary>
+    <title>The Admin Toolbox</title>
+    <subject>The Admin Toolbox</subject>
+    <author>tyjohnson</author>
+    <summarycomments>The Admin Toolbox</summarycomments>
+    <revisioncode>{edbb1d84-6feb-4518-920c-174b89cd3d43}</revisioncode>
+    <uacelevation>highestAvailable</uacelevation>
+  </summary>
+  <addremove>
+    <publishername>tyjohnson</publishername>
+    <contactname>tyjohnson</contactname>
+    <helplink>http://www.mywebsite.com</helplink>
+    <productupdatelink>http://www.mywebsite.com</productupdatelink>
+    <addremovecomments>All Rights Reserved</addremovecomments>
+    <iconfile />
+  </addremove>
+  <codegen>
+    <generateincludefiles>1</generateincludefiles>
+    <generatefeatures>0</generatefeatures>
+    <refreshscript>0</refreshscript>
+  </codegen>
+  <compilervariables>
+    <variables />
+  </compilervariables>
+  <build>
+    <buildtype>0</buildtype>
+  </build>
+  <files>
+    <filedetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\The Admin Toolbox\bin\Debug\The Admin Toolbox.exe" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="1" runprogram="1" installfilecommand="1" />
+  </files>
+  <dependencies>
+    <dependencydetails filename="C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\AdminUI.WqlQueryEngine.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\ByteSize.1.3.0\lib\net45\ByteSize.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\DnsClient.1.0.7\lib\net45\DnsClient.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\HtmlAgilityPack.1.7.2\lib\Net45\HtmlAgilityPack.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\IPAddressRange.3.1.0\lib\net45\IPAddressRange.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\Microsoft.ConfigurationManagement.ManagementProvider.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Microsoft Visual Studio 14.0\Visual Studio Tools for Office\PIA\Office15\Microsoft.Office.Interop.Outlook.dll" targetlocation="GAC" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\WindowsPowerShell\3.0\Microsoft.PowerShell.Activities.dll" targetlocation="GAC" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\MongoDB.Bson.2.5.0\lib\net45\MongoDB.Bson.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\MongoDB.Driver.2.5.0\lib\net45\MongoDB.Driver.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\MongoDB.Driver.Core.2.5.0\lib\net45\MongoDB.Driver.Core.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\NPOI.2.3.0\lib\net40\NPOI.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\NPOI.2.3.0\lib\net40\NPOI.OOXML.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXml4Net.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXmlFormats.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\SimpleImpersonation.2.0.1\lib\net40-Client\SimpleImpersonation.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\System.Buffers.4.3.0\lib\netstandard1.1\System.Buffers.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\System.Data.SQLite.Core.1.0.108.0\lib\net45\System.Data.SQLite.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\System.Data.SQLite.EF6.1.0.108.0\lib\net45\System.Data.SQLite.EF6.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\System.Data.SQLite.Linq.1.0.108.0\lib\net45\System.Data.SQLite.Linq.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Reference Assemblies\Microsoft\WindowsPowerShell\3.0\System.Management.Automation.dll" targetlocation="GAC" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\System.Runtime.InteropServices.RuntimeInformation.4.0.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll" targetlocation="GAC" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\packages\UserImpersonation.1.0.0\lib\UserImpersonation.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Users\admin_tyjohnson\Documents\Visual Studio 2015\Projects\The Admin Toolbox\The Admin Toolbox\obj\Debug\Interop.SHDocVw.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+  </dependencies>
+  <dialogtheme>
+    <themename>Official</themename>
+  </dialogtheme>
+  <authenticode>
+    <sign>0</sign>
+    <certificatefile />
+    <keyfile />
+    <productinfourl />
+    <authpassword />
+    <timestampurl />
+  </authenticode>
+  <compression>
+    <compressiontype>6</compressiontype>
+    <encrypt>0</encrypt>
+    <compressionpassword />
+  </compression>
+  <output>
+    <outputtype>0</outputtype>
+    <location />
+    <filename />
+    <calculatefilehash>0</calculatefilehash>
+    <refreshrevisioncode>1</refreshrevisioncode>
+  </output>
+</iasettings>
