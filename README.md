@@ -2,7 +2,7 @@
 
 > This desktop app written in C# lets you support end users in a corporate environment and provides features that let you support desktop computers remotely
 
-<img src="https://tylerjdev.sfo2.digitaloceanspaces.com/admin_toolbox_main_screen.png">
+<img src="https://tylerjdev.sfo2.cdn.digitaloceanspaces.com/snwalkup.png">
 
 ## Features
 - Ping a computer
